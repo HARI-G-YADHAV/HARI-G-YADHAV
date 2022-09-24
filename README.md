@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Hari's profile!
+  Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <!-- Typing SVG by Hari-G-max - https://github.com/Hari-G-max/readme-typing-svg -->
