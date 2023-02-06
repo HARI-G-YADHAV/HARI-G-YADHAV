@@ -16,13 +16,6 @@
 
 ## 🔥 Streak stats
 
-
-<p align="center">
-  <a href="https://github.com/Hari-G-max/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hari-G-max's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-G-max&theme=monokai-metallian&hide_border=true"/>
-  
-
-
 <!-- ## 🛠️ My favorite tools -->
 
 ### 👨‍💻 Programming languages
