@@ -14,7 +14,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Hari-G-max?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak stats
+## 🔥 Streak status
 
 <!-- ## 🛠️ My favorite tools -->
 
