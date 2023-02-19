@@ -7,11 +7,9 @@
   <a href="https://github.com/Hari-G-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <br/>
+<h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://github.com/Hari-G-max?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Hari-G-max"/></a>
-  <a href="https://github.com/Hari-G-max?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Hari-G-max?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hariprasad-g-yadhav-09369720b" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" alt="hariprasad g" height="50" width="50" /></a>  <a href="https://www.instagram.com/hariprasad_g_yadhav/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="hariprasad g" height="50" width="50" /></a>
 </p>
 
 ## 🔥 Streak status
