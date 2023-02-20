@@ -27,3 +27,5 @@
 - 💻 CS Student at [NASC](https://nasc.ac.in/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HARI-G-YADHAV&show_icons=true&locale=en&layout=compact" alt="HARI-G-YADHAV" /></p>
+
+<a href=#><img src="contributions.svg"></a>
