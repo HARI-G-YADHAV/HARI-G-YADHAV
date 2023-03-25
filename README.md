@@ -19,7 +19,7 @@
   <a href="https://github.com/HARI-G-YADHAV/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HARI-G-YADHAV's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HARI-G-YADHAV&theme=monokai-metallian&hide_border=true"/></a>
  
- Skills : C++ | C | JS | HTML | CSS | Python | GIT | Bootstrap | Java | Bash | 
+ Skills : C++ | C | JS | HTML | CSS | Python | GIT | Bootstrap | Java | Bash | Overleaf |
 - 🌐 Full Stack Webdev
 - 🚩 CTF Player 
 - 🔒 Cyber Security enthusiast 
