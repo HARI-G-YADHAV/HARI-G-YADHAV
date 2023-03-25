@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/hariprasad-g-yadhav-09369720b" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" alt="hariprasad g" height="50" width="50" /></a>  <a href="https://www.instagram.com/hariprasad_g_yadhav/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="hariprasad g" height="50" width="50" /></a>  <a href="mailto:hariprasadgyadhav@gmail.com" target="blank"><img align="center" src="https://p.kindpng.com/picc/s/325-3252765_gmail-png-free-background-gmail-email-logo-png.png" alt="hariprasad g" height="50" width="50" /></a> 
 </p>
 
-## 🔥 Streak status
+## #Status
 
 <!-- ## 🛠️ My favorite tools -->
 <p align="center">
