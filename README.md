@@ -8,7 +8,7 @@
 </p>
 </h1>
 
-## 💢Status
+## 💢 Status
 
 <!-- ## 🛠️ My favorite tools -->
 
