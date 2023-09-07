@@ -2,11 +2,10 @@
  Hii..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  I'am Hari
-<h3 align="right">📫 Connect with me 👇</h3>
-<p align="right">
-<a href="https://www.linkedin.com/in/hariprasad-g-yadhav-09369720b" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" alt="hariprasad g" height="35" width="35" /></a>  <a href="https://www.instagram.com/hariprasad_g_yadhav/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="hariprasad g" height="35" width="35" /></a>  <a href="mailto:hariprasadgyadhav@gmail.com" target="blank"><img align="center" src="https://p.kindpng.com/picc/s/325-3252765_gmail-png-free-background-gmail-email-logo-png.png" alt="hariprasad g" height="35" width="35" /></a> 
-</p>
-</h1>
+<h3 align="left">🌐 Connect with me 👇</h3>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hariprasad_g_yadhav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprasad-g-yadhav-09369720b) 
+
 
 ## 💢 Status
 
@@ -23,6 +22,8 @@
 - 🌧️ Spends Time to Learn Something New...
 - 💻 CS Student at [NASC](https://nasc.ac.in/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HARI-G-YADHAV&show_icons=true&locale=en&layout=compact" alt="HARI-G-YADHAV" /></p>
+<p align="center">
+  <a href="https://github.com/H4K3R13/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a>
 
 <a href=#><img src="contributions.svg"></a>
