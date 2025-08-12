@@ -45,8 +45,5 @@
 - 💻 CS Student at [NASC](https://nasc.ac.in/)
 </br>
 </br>
-<p align="center">
-  <a href="https://github.com/H4K3R13/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a>
 
 <a href=#><img src="contributions.svg"></a>
